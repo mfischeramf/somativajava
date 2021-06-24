@@ -1,7 +1,0 @@
-#LojaEletronicos
-
-##Alunos
-
-
-##Versão
-
